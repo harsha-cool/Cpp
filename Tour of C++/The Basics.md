@@ -14,5 +14,5 @@
 14. suffix unary & mean reference to, a reference can't be changed after initialization
 15. A reference must refer to a valid object
 16. if(auto n = v.size()) gets in if n!=0
-17. 
+17. We cannot have unintialized reference
     
